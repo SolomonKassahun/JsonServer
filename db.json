@@ -18,11 +18,41 @@
     }
   ],
   "addproduct": [
-    { "ProductId":"1",
+    { "ProductId":1,
       "title": "Teff",
       "price": 5000,
       "description": "Whit teff",
       "photos": "product/Screenshot_20230324-170046.png"
-    }
+    },
+    { "ProductId":2,
+    "title": "Teff",
+    "price": 5000,
+    "description": "Whit teff",
+    "photos": "product/Screenshot_20230324-170046.png"
+  },
+  { "ProductId":3,
+  "title": "Teff",
+  "price": 5000,
+  "description": "Whit teff",
+  "photos": "product/Screenshot_20230324-170046.png"
+},
+{ "ProductId":4,
+"title": "Teff",
+"price": 5000,
+"description": "Whit teff",
+"photos": "product/Screenshot_20230324-170046.png"
+},
+{ "ProductId":5,
+"title": "Teff",
+"price": 5000,
+"description": "Whit teff",
+"photos": "product/Screenshot_20230324-170046.png"
+},
+{ "ProductId":6,
+"title": "Teff",
+"price": 5000,
+"description": "Whit teff",
+"photos": "product/Screenshot_20230324-170046.png"
+}
   ]
 }
