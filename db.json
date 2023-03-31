@@ -1,11 +1,28 @@
 {
-  "posts": [
+  "login": [
     {
-      "id": 1,
-      "title": "hello"
+      "UserId": 1,
+      "username": "sol",
+      "password": "2123",
+      "fistName": "fn",
+      "lastName": "ln",
+      "role": "admin"
+    },
+    {
+      "UserId": 2,
+      "username": "elsa",
+      "password": "2123",
+      "fistName": "fn",
+      "lastName": "ln",
+      "role": "tech"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "addproduct": [
+    {
+      "title": "Teff",
+      "price": 5000,
+      "description": "Whit teff",
+      "photos": "product/Screenshot_20230324-170046.png"
+    }
+  ]
 }
